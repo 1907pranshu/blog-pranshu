@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 bcrypt = "==3.1.4"
 blinker = "==1.4"
-certifi = "==2020.4.5.2"
+certifi = "==2020.04.05"
 cffi = "==1.11.5"
 click = "==6.7"
 flask = "==1.0"
