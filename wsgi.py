@@ -1,3 +1,3 @@
-from flaskblog import create_app
+from flaskblog.users import create_app
 
 app = create_app()
